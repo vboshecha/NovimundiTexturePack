@@ -120,6 +120,13 @@
     },
     {
       "type":"bitmap",
+      "file":"novi:prefix/tiertester.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDFAC"]
+    },
+    {
+      "type":"bitmap",
       "file":"novi:prefix/enemy.png",
       "ascent":8,
       "height":9,
@@ -152,6 +159,34 @@
       "ascent":8,
       "height":9,
       "chars":["🮻"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:tiers/war.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDFAD"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:tiers/m1novi.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDFB0"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:tiers/vintovka.png",
+      "ascent":7,
+      "height":8,
+      "chars":["\uD83E\uDFAF"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:tiers/tournament.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDFAE"]
     },
     {
       "type":"bitmap",
