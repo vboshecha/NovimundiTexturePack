@@ -190,6 +190,13 @@
     },
     {
       "type":"bitmap",
+      "file":"novi:tiers/musketeer.png",
+      "ascent":7,
+      "height":8,
+      "chars":["\uD83E\uDFAA"]
+    },
+    {
+      "type":"bitmap",
       "file":"novi:crates/donate_case1.png",
       "ascent":20,
       "height":256,
@@ -229,6 +236,13 @@
       "ascent":26,
       "height":256,
       "chars":["🮳"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:crates/tier_menu.png",
+      "ascent":100,
+      "height":256,
+      "chars":["\uD83E\uDFAB"]
     },
     {
       "type":"bitmap",
