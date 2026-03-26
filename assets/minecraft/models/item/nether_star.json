@@ -1,0 +1,7 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "item/nether_star" },
+  "overrides": [
+    { "predicate": { "custom_model_data": 200002 }, "model": "item/spawn_items/party_create" }
+  ]
+}

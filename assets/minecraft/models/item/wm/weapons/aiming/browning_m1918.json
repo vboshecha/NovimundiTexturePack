@@ -1,0 +1,15 @@
+{
+    "parent": "item/wm/weapons/browning_m1918",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-9, 8.25, -1],
+			"scale": [1, 1, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-9, 8.25, -1],
+			"scale": [1, 1, 1]
+        }
+    }
+}

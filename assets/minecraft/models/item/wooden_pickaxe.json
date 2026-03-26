@@ -1,0 +1,50 @@
+{
+  "parent": "item/handheld",
+  "textures": { "layer0": "item/wooden_pickaxe" },
+  "overrides": [
+    { "predicate": { "custom_model_data": -101  }, "model": "item/wm/projectiles/ammo_nuke" },
+    { "predicate": { "custom_model_data": -100  }, "model": "item/wm/projectiles/ammo_rocket" },
+
+    { "predicate": { "custom_model_data": 4  }, "model": "item/wm/weapons/panzerfaust" },
+    { "predicate": { "custom_model_data": 5  }, "model": "item/wm/weapons/mg42" },
+    { "predicate": { "custom_model_data": 7  }, "model": "item/wm/weapons/ppsh" },
+    { "predicate": { "custom_model_data": 9  }, "model": "item/wm/weapons/mauserc96" },
+    { "predicate": { "custom_model_data": 10 }, "model": "item/wm/weapons/mosin_nagant" },
+    { "predicate": { "custom_model_data": 11 }, "model": "item/wm/weapons/thompson" },
+    { "predicate": { "custom_model_data": 15 }, "model": "item/wm/weapons/stg44" },
+    { "predicate": { "custom_model_data": 16 }, "model": "item/wm/weapons/bazooka" },
+    { "predicate": { "custom_model_data": 19 }, "model": "item/wm/weapons/tokarev_avt40" },
+    { "predicate": { "custom_model_data": 20 }, "model": "item/wm/weapons/browning_m1918" },
+    { "predicate": { "custom_model_data": 29 }, "model": "item/wm/weapons/m1_carbine" },
+    { "predicate": { "custom_model_data": 30 }, "model": "item/wm/weapons/musket" },
+
+    { "predicate": { "custom_model_data": 1004 }, "model": "item/wm/weapons/aiming/panzerfaust" },
+    { "predicate": { "custom_model_data": 1005 }, "model": "item/wm/weapons/aiming/mg42" },
+    { "predicate": { "custom_model_data": 1007 }, "model": "item/wm/weapons/aiming/ppsh" },
+    { "predicate": { "custom_model_data": 1009 }, "model": "item/wm/weapons/aiming/mauserc96" },
+    { "predicate": { "custom_model_data": 1010 }, "model": "item/wm/weapons/aiming/mosin_nagant" },
+    { "predicate": { "custom_model_data": 1011 }, "model": "item/wm/weapons/aiming/thompson" },
+    { "predicate": { "custom_model_data": 1015 }, "model": "item/wm/weapons/aiming/stg44" },
+    { "predicate": { "custom_model_data": 1016 }, "model": "item/wm/weapons/aiming/bazooka" },
+    { "predicate": { "custom_model_data": 1019 }, "model": "item/wm/weapons/aiming/tokarev_avt40" },
+    { "predicate": { "custom_model_data": 1020 }, "model": "item/wm/weapons/aiming/browning_m1918" },
+    { "predicate": { "custom_model_data": 1029 }, "model": "item/wm/weapons/aiming/m1_carbine" },
+    { "predicate": { "custom_model_data": 1030 }, "model": "item/wm/weapons/aiming/musket" },
+
+    { "predicate": { "custom_model_data": 2004 }, "model": "item/wm/weapons/sprinting/panzerfaust" },
+    { "predicate": { "custom_model_data": 2005 }, "model": "item/wm/weapons/sprinting/mg42" },
+    { "predicate": { "custom_model_data": 2007 }, "model": "item/wm/weapons/sprinting/ppsh" },
+    { "predicate": { "custom_model_data": 2009 }, "model": "item/wm/weapons/sprinting/mauserc96" },
+    { "predicate": { "custom_model_data": 2010 }, "model": "item/wm/weapons/sprinting/mosin_nagant" },
+    { "predicate": { "custom_model_data": 2011 }, "model": "item/wm/weapons/sprinting/thompson" },
+    { "predicate": { "custom_model_data": 2015 }, "model": "item/wm/weapons/sprinting/stg44" },
+    { "predicate": { "custom_model_data": 2016 }, "model": "item/wm/weapons/sprinting/bazooka" },
+    { "predicate": { "custom_model_data": 2019 }, "model": "item/wm/weapons/sprinting/tokarev_avt40" },
+    { "predicate": { "custom_model_data": 2020 }, "model": "item/wm/weapons/sprinting/browning_m1918" },
+    { "predicate": { "custom_model_data": 2029 }, "model": "item/wm/weapons/sprinting/m1_carbine" },
+    { "predicate": { "custom_model_data": 2030 }, "model": "item/wm/weapons/sprinting/musket" },
+
+    { "predicate": { "custom_model_data": 4016 }, "model": "item/wm/weapons/bazooka" },
+    { "predicate": { "custom_model_data": 4017 }, "model": "item/wm/weapons/bazooka" }
+  ]
+}

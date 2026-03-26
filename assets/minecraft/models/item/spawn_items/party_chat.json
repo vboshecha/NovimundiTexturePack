@@ -1,0 +1,9 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"1": "novi:spawn_items/party_chat",
+		"particle": "novi:spawn_items/party_chat",
+		"layer0": "item/spawn_items/party_chat"
+	},
+	"display": {}
+}

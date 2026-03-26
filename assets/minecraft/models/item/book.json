@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "item/book" },
+  "overrides": [
+    { "predicate": { "custom_model_data": 200003 }, "model": "item/spawn_items/kit_editor" },
+    { "predicate": { "custom_model_data": 200006 }, "model": "item/spawn_items/party_info" }
+  ]
+}

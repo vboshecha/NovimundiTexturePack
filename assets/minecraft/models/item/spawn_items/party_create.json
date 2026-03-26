@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "item/spawn_items/party_create"
+	},
+	"display": {
+		"gui": {
+			"rotation": [0, -180, 0],
+			"translation": [0.75, 0, 0],
+			"scale": [1.08, 1.08, 1.08]
+		}
+	}
+}

@@ -1,0 +1,15 @@
+{
+    "parent": "item/wm/weapons/tokarev_avt40",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [-34, 50, 20],
+			"translation": [-11, 5, 4],
+			"scale": [1, 1, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-34, 50, 20],
+			"translation": [-11, 5, 4],
+			"scale": [1, 1, 1]
+        }
+    }
+}

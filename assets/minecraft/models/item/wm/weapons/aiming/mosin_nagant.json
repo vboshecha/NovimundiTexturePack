@@ -1,0 +1,15 @@
+{
+    "parent": "item/wm/weapons/mosin_nagant",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-9, 4.2, -2],
+			"scale": [1, 1, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-9, 4.2, -2],
+			"scale": [1, 1, 1]
+        }
+    }
+}

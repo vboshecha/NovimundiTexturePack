@@ -1,0 +1,131 @@
+{
+  "headshot": { "replace": false, "sounds": ["headshot"] },
+  "bodyshot": { "replace": false, "sounds": ["bodyshot"] },
+  
+  "deagle_fire": { "replace": false, "sounds": ["deagle_fire"] },
+  "deagle_reload_start": { "replace": false, "sounds": ["deagle_reload_start"] },
+  "deagle_reload_end": { "replace": false, "sounds": ["deagle_reload_end"] },
+  "deagle_empty": { "replace": false, "sounds": ["deagle_empty"] },
+  
+  "usp_fire": { "replace": false, "sounds": ["usp_fire"] },
+  "usp_reload_start": { "replace": false, "sounds": ["usp_reload_start"] },
+  "usp_reload_end": { "replace": false, "sounds": ["usp_reload_end"] },
+  "usp_empty": { "replace": false, "sounds": ["usp_empty"] },
+  
+  "revolver_fire": { "replace": false, "sounds": ["revolver_fire"] },
+  "revolver_reload_start": { "replace": false, "sounds": ["revolver_reload_start"] },
+  "revolver_reload_end": { "replace": false, "sounds": ["revolver_reload_end"] },
+  "revolver_empty": { "replace": false, "sounds": ["revolver_empty"] },
+  "revolver_add_bullet": { "replace": false, "sounds": ["revolver_add_bullet"] },
+  
+  "ak47_fire": { "replace": false, "sounds": ["ak47_fire"] },
+  "ak47_reload_start": { "replace": false, "sounds": ["ak47_reload_start"] },
+  "ak47_reload_end": { "replace": false, "sounds": ["ak47_reload_end"] },
+  "ak47_empty": { "replace": false, "sounds": ["ak47_empty"] },
+  
+  "m4a1s_fire": { "replace": false, "sounds": ["m4a1s_fire"] },
+  "m4a1s_reload_start": { "replace": false, "sounds": ["m4a1s_reload_start"] },
+  "m4a1s_reload_end": { "replace": false, "sounds": ["m4a1s_reload_end"] },
+  "m4a1s_empty": { "replace": false, "sounds": ["m4a1s_empty"] },
+  
+  "awp_fire": { "replace": false, "sounds": ["awp_fire"] },
+  "awp_reload_start": { "replace": false, "sounds": ["awp_reload_start"] },
+  "awp_reload_end": { "replace": false, "sounds": ["awp_reload_end"] },
+  "awp_empty": { "replace": false, "sounds": ["awp_empty"] },
+  
+  "ump45_fire": { "replace": false, "sounds": ["ump45_fire"] },
+  "ump45_reload_start": { "replace": false, "sounds": ["ump45_reload_start"] },
+  "ump45_reload_end": { "replace": false, "sounds": ["ump45_reload_end"] },
+  "ump45_empty": { "replace": false, "sounds": ["ump45_empty"] },
+  
+  "bizon_fire": { "replace": false, "sounds": ["bizon_fire"] },
+  "bizon_reload_start": { "replace": false, "sounds": ["bizon_reload_start"] },
+  "bizon_reload_end": { "replace": false, "sounds": ["bizon_reload_end"] },
+  "bizon_empty": { "replace": false, "sounds": ["bizon_empty"] },
+
+  "sawedoff_fire": { "replace": false, "sounds": ["sawedoff_fire"] },
+  "sawedoff_reload_end": { "replace": false, "sounds": ["sawedoff_reload_end"] },
+  "sawedoff_empty": { "replace": false, "sounds": ["sawedoff_empty"] },
+  "sawedoff_add_bullet": { "replace": false, "sounds": ["sawedoff_add_bullet"] },
+
+
+  "qa_m1_fire": { "replace": false, "sounds": ["qa/bigbullet"] },
+  "qa_m1_reload_start": { "replace": false, "sounds": ["qa/reloadmagout"] },
+  "qa_m1_reload_end": { "replace": false, "sounds": ["qa/reloadslide"] },
+  "qa_m1_empty": { "replace": false, "sounds": ["qa/outofammoclick"] },
+
+  "qa_mg42_fire": { "replace": false, "sounds": ["qa/bigbullet"] },
+  "qa_mg42_reload_start": { "replace": false, "sounds": ["qa/reloadmagout"] },
+  "qa_mg42_reload_end": { "replace": false, "sounds": ["qa/reloadmagin"] },
+  "qa_mg42_empty": { "replace": false, "sounds": ["qa/outofammoclick"] },
+
+  "qa_obrez_fire": { "replace": false, "sounds": ["qa/obrezshot"] },
+  "qa_obrez_reload_start": { "replace": false, "sounds": ["qa/reloadshell"] },
+  "qa_obrez_reload_end": { "replace": false, "sounds": ["qa/reloadmagin"] },
+  "qa_obrez_empty": { "replace": false, "sounds": ["qa/outofammoclick"] },
+  "qa_obrez_add_bullet": { "replace": false, "sounds": ["qa/reloadshell"] },
+
+  "qa_vintovka_fire": { "replace": false, "sounds": ["qa/rifleshot"] },
+
+  "fx.ricochet": {
+    "category": "master",
+    "sounds": [ "wm/fx/bowhit1", "wm/fx/bowhit2", "wm/fx/bowhit3", "wm/fx/bowhit4", "wm/fx/bowhit5", "wm/fx/bowhit6", "wm/fx/bowhit7", "wm/fx/bowhit7"]
+  },
+  "explosion.explode1": { "sounds": ["wm/explosion/explode1"] },
+  "explosion.explode2": { "sounds": ["wm/explosion/explode2"] },
+  "explosion.frag": { "sounds": ["wm/explosion/frag"] },
+
+  "fx.whiz": {
+    "sounds": [
+      { "name": "wm/fx/whiz1", "weight": 4 },
+      { "name": "wm/fx/whiz2", "weight": 1 },
+      { "name": "wm/fx/whiz3", "weight": 2 },
+      { "name": "wm/fx/whiz4", "weight": 2 },
+      { "name": "wm/fx/whiz5", "weight": 2 },
+      { "name": "wm/fx/whiz6", "weight": 1 },
+      { "name": "wm/fx/whiz7", "weight": 2 },
+      { "name": "wm/fx/whiz8", "weight": 2 },
+      { "name": "wm/fx/whiz9", "weight": 1 }
+    ]
+  },
+
+  "reload.end.light": { "sounds": ["wm/reload/insert_mag_light"] },
+  "reload.end.normal": { "sounds": ["wm/reload/insert_mag_normal"] },
+  "reload.end.heavy": { "sounds": ["wm/reload/insert_mag_minigun"] },
+  "reload.end.rifle": { "sounds": ["wm/reload/rifle_reload_end"] },
+  "reload.start.bar1918": { "sounds": ["wm/reload/bar1918_reload"] },
+  "reload.start.carbine": { "sounds": ["wm/reload/carbine_reload"] },
+  "reload.start.kurok": { "sounds": [ "wm/reload/kurok"] },
+  "reload.start.light": { "sounds": [ "wm/reload/eject_mag_light"] },
+  "reload.start.mg42": { "sounds": ["wm/reload/mg42_reload"] },
+  "reload.start.musket": { "sounds": ["wm/reload/musket_reload"] },
+  "reload.start.normal": { "sounds": ["wm/reload/eject_mag_normal"] },
+  "reload.start.ppsh": { "sounds": ["wm/reload/ppsh_reload"] },
+  "reload.start.rifle1": { "sounds": ["wm/reload/rifle_reload_start"] },
+
+  "scope.in": { "sounds": ["wm/scope/start_scope"] },
+  "scope.out": { "sounds": ["wm/scope/end_scope"] },
+
+  "shoot.bar1918.ambient": { "sounds": ["wm/shoot/ambient/bar1918"] },
+  "shoot.m1carbine.ambient": { "sounds": ["wm/shoot/ambient/m1carbine"] },
+  "shoot.mauserc96.ambient": { "sounds": ["wm/shoot/ambient/mauserc96"] },
+  "shoot.mg42.ambient": { "sounds": ["wm/shoot/ambient/mg42"] },
+  "shoot.mosin-nagant.ambient": { "sounds": ["wm/shoot/ambient/mosin-nagant"] },
+  "shoot.musket.ambient": { "sounds": ["wm/shoot/ambient/musket"] },
+  "shoot.ppsh.ambient": { "sounds": ["wm/shoot/ambient/ppsh"] },
+  "shoot.stg44.ambient": { "sounds": ["wm/shoot/ambient/stg44"] },
+  "shoot.thompson.ambient": { "sounds": ["wm/shoot/ambient/thompson"] },
+
+  "shoot.airstrike.loud": { "sounds": ["wm/shoot/loud/airstrike"] },
+  "shoot.bar1918.loud": { "sounds": ["wm/shoot/loud/bar1918"] },
+  "shoot.fatman.loud": { "sounds": ["wm/shoot/loud/fatman"] },
+  "shoot.m1carbine.loud": { "sounds": ["wm/shoot/loud/m1carbine"] },
+  "shoot.mauserc96.loud": { "sounds": ["wm/shoot/loud/mauserc96"] },
+  "shoot.mg42.loud": { "sounds": ["wm/shoot/loud/mg42"] },
+  "shoot.mosin-nagant.loud": { "sounds": ["wm/shoot/loud/mosin-nagant"] },
+  "shoot.musket.loud": { "sounds": ["wm/shoot/loud/musket"] },
+  "shoot.panzerfaust.loud": { "sounds": ["wm/shoot/loud/panzerfaust"] },
+  "shoot.ppsh.loud": { "sounds": ["wm/shoot/loud/ppsh"] },
+  "shoot.stg44.loud": { "sounds": ["wm/shoot/loud/stg44"] },
+  "shoot.thompson.loud": { "sounds": ["wm/shoot/loud/thompson"] }
+}

@@ -1,0 +1,9 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "item/paper" },
+  "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/wm/items/medical-bandage"},
+    { "predicate": { "custom_model_data": 200004 }, "model": "item/spawn_items/settings" },
+    { "predicate": { "custom_model_data": 200007 }, "model": "item/spawn_items/party_chat" }
+  ]
+}

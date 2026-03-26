@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"1": "novi:spawn_items/settings",
+		"layer0": "item/spawn_items/settings",
+		"particle": "novi:spawn_items/settings"
+	},
+	"display": {
+		"gui": {
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"parent": "item/generated",
+	"textures": {
+		"1": "novi:spawn_items/ranked",
+		"layer0": "item/spawn_items/ranked",
+		"particle": "novi:spawn_items/ranked"
+	},
+	"display": {
+		"gui": {
+			"scale": [0.8, 0.8, 0.8]
+		}
+	}
+}

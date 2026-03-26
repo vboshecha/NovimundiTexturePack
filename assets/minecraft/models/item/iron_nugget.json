@@ -1,0 +1,8 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "item/iron_nugget" },
+  "overrides": [
+    { "predicate": { "custom_model_data": 10018 }, "model": "item/wm/items/shell"},
+    { "predicate": { "custom_model_data": 20001 }, "model": "item/features/bullet_hole" }
+  ]
+}

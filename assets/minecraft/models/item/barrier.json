@@ -1,0 +1,11 @@
+{
+  "parent": "item/generated",
+  "textures": { "layer0": "item/barrier" },
+  "overrides": [
+    { "predicate": { "custom_model_data": 2 }, "model": "item/servermenu/novimundi" },
+    { "predicate": { "custom_model_data": 3 }, "model": "item/servermenu/mineway" },
+    { "predicate": { "custom_model_data": 4 }, "model": "item/servermenu/tournament" },
+    { "predicate": { "custom_model_data": 5 }, "model": "item/buttons/cup" },
+    { "predicate": { "custom_model_data": 6 }, "model": "item/buttons/hat" }
+  ]
+}

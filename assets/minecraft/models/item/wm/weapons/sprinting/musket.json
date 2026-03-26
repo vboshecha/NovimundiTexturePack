@@ -1,0 +1,15 @@
+{
+    "parent": "item/wm/weapons/musket",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [-35, 43, 40],
+			"translation": [-8.5, -4.25, -1.75],
+			"scale": [1.1, 1.1, 1.1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-35, 43, 40],
+			"translation": [-8.5, -4.25, -1.75],
+			"scale": [1.1, 1.1, 1.1]
+        }
+    }
+}

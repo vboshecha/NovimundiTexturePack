@@ -1,0 +1,15 @@
+{
+    "parent": "item/wm/weapons/mauserc96",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [-43, 2, 16],
+			"translation": [-2, 2.5, 1],
+			"scale": [0.8, 0.8, 0.8]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-43, 2, 16],
+			"translation": [-2, 2.5, 1],
+			"scale": [0.8, 0.8, 0.8]
+        }
+    }
+}

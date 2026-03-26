@@ -1,0 +1,15 @@
+{
+    "parent": "item/wm/weapons/ppsh",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-9, 6.75, -6.25],
+			"scale": [1, 1, 1]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 0, 0],
+			"translation": [-9, 6.75, -6.25],
+			"scale": [1, 1, 1]
+        }
+    }
+}

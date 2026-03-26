@@ -1,0 +1,15 @@
+{
+    "parent": "item/wm/weapons/panzerfaust",
+    "display": {
+		"firstperson_righthand": {
+			"rotation": [0, 4, 16],
+			"translation": [-8.25, 5.75, 8],
+			"scale": [1, 1, 0.6]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 3, 16],
+			"translation": [-8.25, 5.75, 8],
+			"scale": [1, 1, 0.6]
+        }
+    }
+}
