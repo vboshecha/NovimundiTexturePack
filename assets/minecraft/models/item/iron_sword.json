@@ -2,6 +2,7 @@
   "parent": "item/handheld",
   "textures": { "layer0": "item/iron_sword" },
   "overrides": [
-    { "predicate": { "custom_model_data": 200000 }, "model": "item/spawn_items/unranked" }
+    { "predicate": { "custom_model_data": 200000 }, "model": "item/spawn_items/unranked" },
+    { "predicate": { "custom_model_data": 200001 }, "model": "item/spawn_items/server_menu" }
   ]
 }

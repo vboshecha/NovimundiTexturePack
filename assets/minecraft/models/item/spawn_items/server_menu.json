@@ -2,8 +2,7 @@
 	"format_version": "1.21.11",
 	"credit": "Made with Blockbench",
 	"textures": {
-		"0": "item/leather_helmet",
-		"particle": "item/leather_helmet"
+		"1": "item/buttons/play"
 	},
 	"elements": [
 		{
@@ -14,13 +13,28 @@
 				"east": {"uv": [0, 0, 16, 2], "texture": "#missing"},
 				"south": {"uv": [0, 0, 16, 2], "texture": "#missing"},
 				"west": {"uv": [0, 0, 16, 2], "texture": "#missing"},
-				"up": {"uv": [0, 0, 16, 16], "texture": "#0"},
-				"down": {"uv": [0, 0, 16, 16], "texture": "#0"}
+				"up": {"uv": [0, 0, 16, 16], "texture": "#1"},
+				"down": {"uv": [0, 0, 16, 16], "texture": "#1"}
 			}
 		}
 	],
 	"gui_light": "front",
 	"display": {
+		"thirdperson_righthand": {
+			"translation": [0, 2.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
+		"firstperson_righthand": {
+			"rotation": [66, 0, 0],
+			"translation": [-8.25, 2.75, 0],
+			"scale": [0.5, 0.5, 0.5]
+		},
+		"firstperson_lefthand": {
+			"scale": [0, 0, 0]
+		},
 		"gui": {
 			"rotation": [90, 0, 0]
 		}
