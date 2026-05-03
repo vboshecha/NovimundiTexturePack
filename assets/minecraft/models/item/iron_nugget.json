@@ -2,6 +2,10 @@
   "parent": "item/generated",
   "textures": { "layer0": "item/iron_nugget" },
   "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/ammo/762" },
+    { "predicate": { "custom_model_data": 2 }, "model": "item/ammo/50ae" },
+    { "predicate": { "custom_model_data": 3 }, "model": "item/sleeve/762-gilz" },
+    { "predicate": { "custom_model_data": 4 }, "model": "item/sleeve/buckshot-gilz" },
     { "predicate": { "custom_model_data": 10018 }, "model": "item/wm/items/shell"},
     { "predicate": { "custom_model_data": 20001 }, "model": "item/features/bullet_hole" }
   ]

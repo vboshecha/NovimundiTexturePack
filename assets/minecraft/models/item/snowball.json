@@ -2,6 +2,8 @@
   "parent": "item/handheld",
   "textures": { "layer0":"item/snowball" },
   "overrides": [
+    { "predicate": { "custom_model_data": 1 }, "model": "item/misc/grenade" },
+    { "predicate": { "custom_model_data": 2 }, "model": "item/misc/smoke" },
     { "predicate": { "custom_model_data": 4 }, "model": "item/wm/items/grenade" },
     { "predicate": { "custom_model_data": 5 }, "model": "item/wm/items/bomb" }
   ]
