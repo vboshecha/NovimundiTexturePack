@@ -197,6 +197,62 @@
     },
     {
       "type":"bitmap",
+      "file":"novi:suffix/n_analler.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDF85"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:suffix/n_artosq.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDF84"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:suffix/n_b5.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDF83"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:suffix/n_cool_peppers.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDF82"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:suffix/n_delastella.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDF81"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:suffix/n_impsqd.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDF80"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:suffix/n_ladern.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDF7F"]
+    },
+    {
+      "type":"bitmap",
+      "file":"novi:suffix/n_ss.png",
+      "ascent":8,
+      "height":9,
+      "chars":["\uD83E\uDF7E"]
+    },
+    {
+      "type":"bitmap",
       "file":"novi:suffix/totem.png",
       "ascent":8,
       "height":9,
